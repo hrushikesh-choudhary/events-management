@@ -1,5 +1,5 @@
-api/ contains the backend APIs that interact with PostgreSQL and is built using Python (Flask)
-ui/ contains the frontend of the Application built in React
+`api/` contains the backend APIs that interact with PostgreSQL and is built using Python (Flask)
+`frontend/` contains the frontend of the Application built in React
 
 Steps to run the code:
 
@@ -17,7 +17,7 @@ APIs:
 4. flask run
 
 Frontend:
-1. cd ui/ 
+1. cd frontend/ 
 2. npm install
 3. npm start
 
